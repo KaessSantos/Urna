@@ -4,22 +4,20 @@ let etapas = [
         numeros:5,
         candidatos:[
             {
-                numero:7777,
+                numero:'77777',
                 nome:'Fulano de tal',
                 partido:'ABC',
                 fotos:[
-                    [
-                        {URL:'7777.jpg', legenda: 'Vereador'}
-                    ]
+                        {url:'vereador.jpg', legenda: 'Vereador'}
                 ]
             },
 
             {
-                numero:105521,
+                numero:'10552',
                 nome:'Beltranio da silva',
                 partido:'ABCD',
                 fotos:[
-                    {URL:'105521', legenda: 'Vereador'}
+                    {url:'vereador.jpg ', legenda: 'Vereador'}
                 ]
             },
             
@@ -31,24 +29,24 @@ let etapas = [
         numeros:2,
         candidatos:[
             {
-                numero:99,
-                nome:'ciclano',
-                partido:'JDF',
+                numero:'22',
+                nome:'Bolsonaro',
+                partido:'PL',
                 vice:'Cic',
                 fotos:[
-                    {URL:'99.jpg', legenda:'Prefeito'},
-                    {URL:'99.jpg', legenda: 'Vice-prefeito', small:true}
+                    {url:'JairBolsonaro.png', legenda:'Prefeito'},
+                    {url:'braga.jpeg', legenda: 'Vice-prefeito', small:true}
                 ]
             },
 
             {
-                numero:85,
-                nome:'ciclano de tal',
-                partido:'JDF',
+                numero:'13',
+                nome:'Lula',
+                partido:'PT',
                 vice:'Ciclado feio',
                 fotos:[
-                    {URL:'85.jpg', legenda:'Prefeito'},
-                    {URL:'85.jpg', legenda: 'Vice-prefeito', small: true}
+                    {url:'lula.jpg', legenda:'Prefeito'},
+                    {url:'geraldo-alckmin.jpg', legenda: 'Vice-prefeito', small: true}
                 ]
             },
         ]

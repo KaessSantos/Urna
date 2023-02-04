@@ -159,3 +159,19 @@ body{
     font-size: 14px;
 
 }
+
+.aviso--grande{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.aviso--gigante{
+    font-size: 150px;
+    font-weight: bolder;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
