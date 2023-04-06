@@ -30,23 +30,23 @@ let etapas = [
         candidatos:[
             {
                 numero:'22',
-                nome:'Bolsonaro',
-                partido:'PL',
+                nome:'Fulano de tal',
+                partido:'PLB',
                 vice:'Cic',
                 fotos:[
-                    {url:'JairBolsonaro.png', legenda:'Prefeito'},
-                    {url:'braga.jpeg', legenda: 'Vice-prefeito', small:true}
+                    {url:'vereador.jpg', legenda:'Prefeito'},
+                    {url:'vereador.jpg', legenda: 'Vice-prefeito', small:true}
                 ]
             },
 
             {
                 numero:'13',
-                nome:'Lula',
-                partido:'PT',
+                nome:'Beltranio de tal',
+                partido:'Pjt',
                 vice:'Ciclado feio',
                 fotos:[
-                    {url:'lula.jpg', legenda:'Prefeito'},
-                    {url:'geraldo-alckmin.jpg', legenda: 'Vice-prefeito', small: true}
+                    {url:'vereador.jpg', legenda:'Prefeito'},
+                    {url:'vereador.jpg', legenda: 'Vice-prefeito', small: true}
                 ]
             },
         ]
