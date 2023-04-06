@@ -1,13 +1,22 @@
 # Urna
  <h1 align="center">Urna Eletronica</h1>
  <h2 align="center">Programador Front-End</h2>
- #<a href="https://kaesssantos.github.io/ABC-Tech/">Projeto</a>
+ #<a href="https://kaesssantos.github.io/Urna/">Projeto</a>
 
  <p>
-    <img alt="projeto portifólio" src=".github/" width="100%">
+    <img alt="Urna" src=".gihub/img-1.png" width="100%">
  </p>
  <p>
-    <img alt="projeto portifólio" src=".github/img-form.png" width="100%">
+    <img alt="" src=".gihub/img-2.png" width="100%">
+ </p>
+ <p>
+    <img alt="" src=".gihub/img-3.png" width="100%">
+ </p>
+ <p>
+    <img alt="" src=".gihub/img-4.png" width="100%">
+ </p>
+ <p>
+    <img alt="" src=".gihub/img-5.png" width="100%">
  </p>
 
  ## 🚀 Tecnologias
@@ -17,9 +26,6 @@
  - HTML e CSS 
  - JavaScript
  - GitHub
- - node.js
- - Bootstrap
- -Jquery
  - Visual Studio Code
 
  ## 💻 Projeto
