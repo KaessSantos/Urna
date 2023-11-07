@@ -32,7 +32,6 @@ function comecarEtapa(){
     aviso.style.display = 'none';
     lateral.innerHTML = '';
     numeros.innerHTML = numeroHTML;
-    
 }
 
 function atualizaInterface(){
